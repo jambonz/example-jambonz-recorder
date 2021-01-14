@@ -1,0 +1,15 @@
+{
+  "name": "example-jambonz-recorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Horton",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^3.9.2",
+    "fastify-websocket": "^2.0.11"
+  }
+}
