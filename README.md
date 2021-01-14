@@ -2,7 +2,7 @@
 
 This is a simple example of a jambonz application that records an incoming call and generates real-time transcripts during the call.  An example use case would be an outdial from a conference that is intended to be a recording leg.
 
-## Installation
+## Installing and running the app
 
 ```
 npm install
